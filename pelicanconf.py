@@ -5,7 +5,7 @@ import re
 
 AUTHOR = 'NOCAPS - Networks and Opinions on Climate Action in the Public Sphere'
 SITENAME = 'NOCAPS - Networks and Opinions on Climate Action in the Public Sphere'
-SITEURL = ''
+SITEURL = 'https://nocaps24.github.io/2024/'
 
 PATH = 'content'
 
