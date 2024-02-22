@@ -36,13 +36,14 @@ LINKS = [('ICWSM24', 'https://www.icwsm.org/2024/')]
 # STATIC_PATHS = ['images', 'extra/CNAME']
 # EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
-# SOCIAL = (('google-plus', 'https://plus.google.com/+KenLaimercus'),
-#           ('linkedin', 'http://www.linkedin.com/in/kenmercuslai'),
-#           ('githuB', 'https://github.com/KenMercusLai'),
-#           ('envelope', 'mailto:ken.mercus.lai@gmail.com'),
+# SOCIAL = (('google-plus', 'https://plus.google.com/'),
+#           ('linkedin', 'http://www.linkedin.com/in/'),
+#           ('githuB', 'https://github.com/'),
+#           ('envelope', 'mailto:test@gmail.com'),
 #           )
 
 THEME = "BT3-Flat"
+OUTPUT_PATH = 'docs/'
 
 def slugify(value):
     """
