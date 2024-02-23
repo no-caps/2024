@@ -7,7 +7,7 @@ AUTHOR = "NOCAPS'24"
 SITENAME = 'NOCAPS - Networks and Opinions on Climate Action in the Public Sphere'
 OUTPUT_PATH = 'output/'
 
-SITEURL = 'https://nocaps24.github.io/2024/'
+SITEURL = 'https://no-caps.github.io/2024/'
 RELATIVE_URLS = True
 
 PATH = 'content'
