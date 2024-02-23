@@ -28,3 +28,9 @@ Title: Organizers
 # Program Committee
 
 ## TBA
+
+---
+
+# Contacts
+
+Write us at <a href="mailto:nocaps@googlegroups.com">nocaps@googlegroups.com</a>

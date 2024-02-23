@@ -10,4 +10,4 @@ Title: NO CAPS @ICWSM24
 ---
 
 ### [Logistics Information](https://www.icwsm.org/2024/index.html/local_organization.html)
-### [Get registered at ICWSM24](https://aaai.getregistered.net/icwsm-24)
+### [Register at ICWSM24](https://aaai.getregistered.net/icwsm-24)
