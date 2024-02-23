@@ -6,7 +6,7 @@ Title: Topics
 - Mixed-methods approaches (e.g., from digital humanities, ethnography, psychology) to study online discourse regarding climate change.
 - Analysis of social networks and communities of climate activism or climate skeptics.
 - Polarity, sentiment, and opinion mining in the context of climate change.
-- Impact of real-world phenomena on climate change awareness and ac- tivism.
+- Impact of real-world phenomena on climate change awareness and activism.
 - Governmental policies on climate and their representation on social media.
 - Public pressure dynamics on social media for climate action.
 - Game-theoretical foundations for incentivizing climate action.
