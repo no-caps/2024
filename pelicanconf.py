@@ -3,10 +3,13 @@
 from __future__ import unicode_literals
 import re
 
-AUTHOR = 'NOCAPS - Networks and Opinions on Climate Action in the Public Sphere'
+AUTHOR = "NOCAPS'24"
 SITENAME = 'NOCAPS - Networks and Opinions on Climate Action in the Public Sphere'
+OUTPUT_PATH = 'output/'
+
 SITEURL = 'https://nocaps24.github.io/2024/'
-RELATIVE_URLS = False
+RELATIVE_URLS = True
+
 PATH = 'content'
 
 TIMEZONE = 'EST'
@@ -43,7 +46,6 @@ LINKS = [('ICWSM24', 'https://www.icwsm.org/2024/')]
 #           )
 
 THEME = "BT3-Flat"
-OUTPUT_PATH = 'docs/'
 
 def slugify(value):
     """

@@ -91,7 +91,7 @@ section header p {
   font-family:'Dosis';
 }
 section ul, section ul li {
-  margin: 10px;
+  margin: 5px;
   padding: 1px;
 }
 /* ---------- /SECTION ---------- */
@@ -110,8 +110,11 @@ p {
 header p {
   padding:0;
 }
-section {
+section:not(#home) {
   padding:110px 0;
+}
+section #home {
+  padding: 0 0;
 }
 section header p {
   margin:0;

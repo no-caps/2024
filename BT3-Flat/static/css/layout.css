@@ -451,6 +451,14 @@ footer a.toTop {
     text-align:center;
   }
 }
+.fixed {
+    position: fixed !important;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin-top: 0 !important;
+}
+
 @media only screen and (max-width: 479px) {
   #home .image-caption h1, #home .image-caption h2 {
     font-size:45px;
