@@ -4,7 +4,7 @@ Title: Organizers
 <div class="container">
     <div class="row">
         <div class="col-md-4 quick-hover">
-            <img src="images/monti.jpg" alt="Corrado Monti" class="rounded-image">
+            <img src="images/monti.png" alt="Corrado Monti" class="rounded-image">
             <h4> Corrado Monti </h4>
             CENTAI
         </div>
@@ -16,7 +16,7 @@ Title: Organizers
         </div>
 
         <div class="col-md-4 quick-hover">
-            <img src="images/aiello.jpg" alt="Luca Maria Aiello" class="rounded-image">
+            <img src="images/aiello.png" alt="Luca Maria Aiello" class="rounded-image">
             <h4> Luca Maria Aiello </h4>
             ITU Copenhagen
         </div>
@@ -33,4 +33,4 @@ Title: Organizers
 
 # Contacts
 
-Write us at <a href="mailto:nocaps@googlegroups.com">nocaps@googlegroups.com</a>
+Write us at <a href="mailto:nocaps@googlegroups.com">nocaps@googlegroups.com</a>.
