@@ -5,7 +5,7 @@ Title: Submit
 We welcome both 2-page abstracts, as well as research papers.
 Abstracts are ideal for position papers or discussion papers of previously published work.
 Research papers must contain original work, including novel technical contributions, demos, datasets, or early-stage research with experimental and preliminary results.
-The accepted short papers (not the 2-page abstracts) will be published in the [ICWSM Workshop Proceedings (AAAI Press)](https://workshop-proceedings.icwsm.org/).
+The accepted research papers (not the 2-page abstracts) will be published in the [ICWSM Workshop Proceedings (AAAI Press)](https://workshop-proceedings.icwsm.org/).
 
 All papers must be submitted as high-resolution PDF files, formatted in AAAI two-column, camera-ready style, for US Letter (8.5" x 11") paper, in English.
 Please reference the [ICWSM 2024 Submission Guidelines](https://www.icwsm.org/2024/index.html/call_for_submissions.html#guidelines) for all information, but authors do not need to compile the ethics checklist required for submissions to the main research track of ICWSM.
