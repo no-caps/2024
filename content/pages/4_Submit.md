@@ -16,5 +16,4 @@ The copyright slug may be omitted in the initial submission phase.
 Anonymity: The review is **double-blind**. Therefore, please anonymize your submission: do not put the author names or affiliations at the start of the paper, and do not include funding or other acknowledgments in papers submitted for review.
 
 Papers should be submitted here:
-## TBA
-<!-- ## [EasyChair link](https://easychair.org/conferences/?conf=nocaps2024) -->
+## [Submit with EasyChair](https://easychair.org/my/conference?conf=nocaps24)
