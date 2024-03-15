@@ -30,7 +30,13 @@ Title: Organizers
 
 # Program Committee
 
-## TBA
+- Max Falkenberg, City, University of London
+- Kyriaki Kalimeri, ISI Foundation
+- Jacopo Lenti, Sapienza University, CENTAI
+- Yelena Mejova, ISI Foundation
+- Arianna Pera, IT University of Copenhagen
+- Francesco Pierri, Politecnico di Milano
+- Davide Vega, Uppsala University
 
 ---
 
