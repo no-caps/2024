@@ -1,9 +1,9 @@
 Title: Program
 
-The workshop will be in the afternoon. Indicative program:
+The workshop will be in the afternoon.
 
 - Opening remarks.
-- Keynote (TBA).
+- Keynotes.
 - Brainstorming for the definition of a research agenda.
 - Coffee break.
 - Paper presentations.
