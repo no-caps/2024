@@ -1,10 +1,8 @@
 Title: Program
 
-The workshop will be in the afternoon.
-
-- Opening remarks.
-- Keynotes.
-- Brainstorming for the definition of a research agenda.
-- Coffee break.
-- Paper presentations.
-- Data analysis activity (TBA) and white paper definition.
+- 14:00-14:10 Opening
+- 14:10-15:00 Keynote: Hanna E. Morris (University of Toronto)
+- 15:00-15:30 Q&A + Brainstorming
+- 15:30-15:50 Coffee Break
+- 15:50-17:00 Paper presentations
+- 17:00-18:00 Hands-on Activity: Analysis of the Reddit data set
